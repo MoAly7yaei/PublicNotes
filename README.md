@@ -1,4 +1,6 @@
 
+<title>README: Public Notes by Mohammed Nabhan Al-Yahyai</title>
+
 <h1>Public Notes</h1>
 
 <h2>By Mohammed Nabhan Al-Yahyai</h2>
@@ -10,7 +12,9 @@
     It is a noble endeavor to make our learning journey as transparent and accessible as possible.
     The notes herein cover a broad range of topics and are not limited to any particular field.
 </p>
+### Recommendation
 
+It is preferred to use **Obsidian** to modify and interact with the notes.
 <h3>Licensing</h3>
 <p>
     The content of this repository is licensed under the Creative Commons Zero v1.0 Universal License. 
@@ -27,6 +31,14 @@
 <p>
     For any questions or further information, please reach out via GitHub or other social media platforms.
 </p>
+
+<h3>Disclaimer</h3>
+<p>
+    While every effort is made to ensure the accuracy and completeness of the information contained in these notes, 
+    please be aware that you are using them at your own risk.
+</p>
+
+
 
 <h3>Disclaimer</h3>
 <p>
