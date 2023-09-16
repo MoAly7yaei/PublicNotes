@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
+                "file": "Machine Learning/ML Use cases.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
+                "file": "Machine Learning/ML Use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
+                "file": "Machine Learning/ML Use cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md"
+                "file": "Machine Learning/ML Use cases.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "acec3d5bc667a577",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
     "Machine Learning/ML Use cases.md",
     "Machine Learning/ML Criteria.md",
     "General/Problem definition.md",
     "General/List of costs.md",
     "General/Return of investment.md",
     "General",
-    "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
     "Read Me.md",
     "Machine Learning",
     "LICENSE",
