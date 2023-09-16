@@ -11,24 +11,29 @@
             "id": "acec3d5bc667a577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
-            "id": "b96e434e84b5e18e",
+            "id": "dfbc8f57c048c9cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me.md",
+                "file": "Machine Learning/ML Use cases.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#onjobideas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Me.md",
+                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read Me.md",
+                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Me.md"
+                "file": "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md"
               }
             }
           }
@@ -155,10 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b96e434e84b5e18e",
+  "active": "acec3d5bc667a577",
   "lastOpenFiles": [
-    "Machine Learning Model Explanation for NON-Technical Workers.md",
+    "Machine Learning/ML Use cases.md",
+    "Machine Learning/ML Criteria.md",
+    "General/Problem definition.md",
+    "General/List of costs.md",
+    "General/Return of investment.md",
+    "General",
+    "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
     "Read Me.md",
+    "Machine Learning",
     "LICENSE",
     "Untitled.canvas"
   ]
