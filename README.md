@@ -1,3 +1,5 @@
+<title>README: Public Notes by Mohammed Nabhan Al-Yahyai</title>
+
 <h1>Public Notes</h1>
 
 <h2>By Mohammed Nabhan Al-Yahyai</h2>
