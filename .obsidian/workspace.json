@@ -160,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9375002acea74ba",
+  "active": "acec3d5bc667a577",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Machine Learning/ML Use cases.md",
     "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
     "Machine Learning/ML Criteria.md",
@@ -169,7 +171,6 @@
     "General/List of costs.md",
     "General/Return of investment.md",
     "General",
-    "README.md",
     "Machine Learning",
     "LICENSE",
     "Untitled.canvas"
