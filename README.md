@@ -1,5 +1,6 @@
 
-<title>README: Public Notes by Mohammed Nabhan Al-Yahyai</title>
+
+
 
 <h1>Public Notes</h1>
 
@@ -11,6 +12,7 @@
     Welcome to the Public Notes repository. This space serves as a shared archive for the collective pursuit of knowledge.
     It is a noble endeavor to make our learning journey as transparent and accessible as possible.
     The notes herein cover a broad range of topics and are not limited to any particular field.
+    This Notes cannot be made without motivation and knowledge gained by Mr Ahmed Alazri.
 </p>
 ### Recommendation
 
@@ -37,6 +39,8 @@ It is preferred to use **Obsidian** to modify and interact with the notes.
     While every effort is made to ensure the accuracy and completeness of the information contained in these notes, 
     please be aware that you are using them at your own risk.
 </p>
+
+
 
 
 
