@@ -1,5 +1,6 @@
 
-<title>README: Public Notes by Mohammed Nabhan Al-Yahyai</title>
+
+
 
 <h1>Public Notes</h1>
 
@@ -39,3 +40,12 @@ It is preferred to use **Obsidian** to modify and interact with the notes.
     please be aware that you are using them at your own risk.
 </p>
 
+
+
+
+
+<h3>Disclaimer</h3>
+<p>
+    While every effort is made to ensure the accuracy and completeness of the information contained in these notes, 
+    please be aware that you are using them at your own risk.
+</p>
