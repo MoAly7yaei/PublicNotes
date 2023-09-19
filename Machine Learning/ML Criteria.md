@@ -3,7 +3,7 @@ Tags: #onjobideas #idea
 ## Questions must be Answered to start making ML solutions.
 
 - What is the problem?, Check this out: [[Problem definition]]
-- What is the types of problem? and is ML is the suitable way to solve it?: Check this out: [[ML Use cases]]
+- What is the types of problem? and is ML is the suitable way to solve it?: Check this out: [[General Use cases]]
 - What Algorithm or Algorithms must be used.
 - What is the Data that I need? and how to extract it?
 - What is the procedure to select the Features?.

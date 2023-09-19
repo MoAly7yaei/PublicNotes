@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/General Use cases.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/ML Use cases.md",
+                "file": "Machine Learning/General Use cases.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#onjobideas",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/General Use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/General Use cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine Learning/General Use cases.md"
               }
             }
           }
@@ -160,16 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acec3d5bc667a577",
+  "active": "d9375002acea74ba",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Will be categorized Latter",
+    "Data Engineering",
+    "Machine Learning/Types of Learning.md",
     "README.md",
-    "Machine Learning/ML Use cases.md",
-    "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
-    "Machine Learning/ML Criteria.md",
-    "General/Problem definition.md",
+    "Machine Learning/General Use cases.md",
+    "Machine Learning/Learning Algorithms.md",
     "General/List of costs.md",
+    "General/Problem definition.md",
     "General/Return of investment.md",
+    "Machine Learning/Create ML Model.md",
+    "Machine Learning/ML Criteria.md",
+    "Machine Learning/Machine Learning Model Explanation for NON-Technical Workers.md",
+    "conflict-files-obsidian-git.md",
     "General",
     "Machine Learning",
     "LICENSE",
