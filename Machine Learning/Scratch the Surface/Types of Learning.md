@@ -18,7 +18,7 @@ As practice, check out [[General Use cases]] and try to see how many use cases c
 ## Unsupervised Learning
 Imagine you're trying to teach a child about animals, but this time you don't actually tell the child what each animal is called. You show them pictures of various animals like dogs, cats, birds, and fish. Slowly, the child starts to notice patterns and groups animals with similar features together like all the animals with feathers, or all those that swim. Essentially, the child is doing what Unsupervised Learning algorithms do: find patterns or clusters in the data without being explicitly told what to look for.
 
-So, in the world of machine learning, Unsupervised Learning is like a curious kid exploring a toy box. The algorithm sorts through the data (the toys) and starts grouping them based on similarities or differences, even though you didn't give it specific labels (like "these are cars" or "these are dolls"). The end result? A model that understands the underlying structure of your data.
+So, in the world of Machine Learning, Unsupervised Learning is like a curious kid exploring a toy box. The algorithm sorts through the data (the toys) and starts grouping them based on similarities or differences, even though you didn't give it specific labels (like "these are cars" or "these are dolls"). The end result? A model that understands the underlying structure of your data.
 
 In cases where you're trying to detect anomalies, it's like if the kid spots a toy that's really different from the rest, like a spaceship among a bunch of cars. The child knows it's special because it doesn't fit with any of the other groups. Similarly, Unsupervised Learning algorithms can identify outliers or anomalies in the data set.
 
