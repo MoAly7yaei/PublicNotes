@@ -4,7 +4,7 @@ Tags: #onjobideas #idea
 
 - What is the problem?, Check this out: [[Problem definition]]
 - What is the types of problem? and is ML is the suitable way to solve it?: Check this out: [[General Use cases]]
-- What Algorithm or Algorithms must be used.
+- What Algorithm or Algorithms must be used, Check [[Learning Algorithms]].
 - What is the Data that I need? and how to extract it?
 - What is the procedure to select the Features?.
 - How to prepare the Features Selected to create the model?.
